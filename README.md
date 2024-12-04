@@ -1,5 +1,3 @@
-# RLLaMa
-RLLaMa_drug design
 # PharmaLLaMA: Transformer-Based Molecular Generator with PPO
 
 ## Overview
